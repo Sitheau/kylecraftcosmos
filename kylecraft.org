@@ -14,6 +14,7 @@ KyleCraft contains a large collection of mods.
 - AutoRegLib (v1.3-26, dependents: Akashic Tome)
 - FTB Library (v5.4.1.92, dependents: FTB Utilities)
 - Mantle (v1.12-1.3.3.42, dependents: Tinker's Construct)
+- MTLib (v3.0.6, dependents: InitialInventory)
 
 ** Mods
 - Akashic Tome (v1.2-12)
@@ -22,6 +23,7 @@ KyleCraft contains a large collection of mods.
 - Just Enough Items (v4.153.0.268)
 - Tinker's Construct (v1.12.2-2.12.0.115)
 - CraftTweaker (v1.12-4.1.16)
+  - InitialInventory (v3.0.0)
 *** Client-sided Only
 - More Overlays (v1.14)
 *** Server-sided Only (some included in client)
