@@ -1,0 +1,36 @@
+* KyleCraft Cosmos: Rehauled
+
+KyleCraft Cosmos: Rehauled aims to provide an optimized version of KyleCraft
+Cosmos with minimal difference in content and gameplay.
+
+* The Mod List
+
+KyleCraft contains a large collection of mods.
+
+- Minecraft Version: 1.12.2
+- Forge Version: 14.23.5.2815
+
+** Libraries
+- AutoRegLib (v1.3-26, dependents: Akashic Tome)
+- FTB Library (v5.4.1.92, dependents: FTB Utilities)
+- Mantle (v1.12-1.3.3.42, dependents: Tinker's Construct)
+
+** Mods
+- Akashic Tome (v1.2-12)
+- FTB Utilities (v5.4.0.87)
+- JourneyMap (v1.12.2-5.5.4)
+- Just Enough Items (v4.153.0.268)
+- Tinker's Construct (v1.12.2-2.12.0.115)
+- CraftTweaker (v1.12-4.1.16)
+*** Client-sided Only
+- More Overlays (v1.14)
+*** Server-sided Only (some included in client)
+
+* Mod Documentation
+
+- Tinker's Construct (https://ftb.gamepedia.com/Tinkers%27_Construct)
+
+* Changelog
+
+** v0.1
++ Created modpack.
