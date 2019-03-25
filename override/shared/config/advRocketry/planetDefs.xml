@@ -15,15 +15,39 @@
         <fogColor>1,1,1</fogColor>
         <skyColor>0,0,0</skyColor>
         <atmosphereDensity>180</atmosphereDensity>
-        <gravitationalMultiplier>100</gravitationalMultiplier>
-        <orbitalDistance>150</orbitalDistance>
+        <gravitationalMultiplier>20</gravitationalMultiplier>
+        <orbitalDistance>5</orbitalDistance>
         <orbitalTheta>190</orbitalTheta>
         <rotationalPeriod>144000</rotationalPeriod> <!-- 1 moon day = 6 earth days -->
         <biomeIds>40</biomeIds> <!-- advancedrocketry:moon -->
       </planet>
     </planet>
 
-    <planet name="Misaka-3-5" DIMID="129">
+    <planet name="Lain" DIMID="129">
+      <fogColor>1,1,1</fogColor>
+      <skyColor>0,0,0</skyColor>
+      <atmosphereDensity>80<atmosphereDensity>
+      <gravitationalMultiplier>70</gravitationalMultiplier>
+      <orbitalDistance>110</orbitalDistance>
+      <orbitalTheta>0</orbitalTheta>
+      <orbitalPhi>130</orbitalPhi>
+      <rotationalPeriod>36000</rotationalPeriod> <!--  1 day = 1.5 earth days -->
+      <biomeIds>0,3,14,15,25,26,30,37,165,41,42,45,46,47</biomeIds>
+
+      <planet name="Arisu" DIMID="130">
+        <fogColor>1,1,1</fogColor>
+        <skyColor>0xdf5286</skyColor>
+        <atmosphereDensity>50</atmosphereDensity>
+        <gravitationalMultiplier>20</gravitationalMultiplier>
+        <orbitalDistance>8</orbitalDistance>
+        <orbitalTheta>30</orbitalTheta>
+        <orbitalPhi>25</orbitalPhi>
+        <rotationalPeriod>160000</rotationalPeriod>
+        <biomeIds>37,38,39</biomeIds>
+      </planet>
+    </planet>
+
+    <planet name="Misaka-3-5" DIMID="131">
       <hasRings>true</hasRings>
       <fogColor>0xa334a1</fogColor>
       <skyColor>0x9df9ca</skyColor>
@@ -32,16 +56,22 @@
       <orbitalDistance>190</orbitalDistance>
       <orbitalTheta>2</orbitalTheta>
       <orbitalPhi>5</orbitalPhi>
+      <rotationalPeriod>720000</rotationalPeriod> <!-- 1 day = 1 earth month -->
       <biomeIds>10,140</biomeIds>
 
-      <oregen></oregen>
+      <OreGen>
+        <ore block="academy:constraint_metal" minHeight="0" maxHeight="40" clumpSize="8" chancePerChunk="8" />
+        <ore block="academy:crystal_ore" minHeight="0" maxHeight="60" clumpSize="4" chancePerChunk="32" />
+        <ore block="academy:imagsil_ore" minHeight="0" maxHeight="60" clumpSize="8" chancePerChunk="32" />
+        <ore block="academy:reso_ore" minHeight="0" maxHeight="60" clumpSize="4" chancePerChunk="32" />
+      </OreGen>
 
       <!-- moons -->
-      <planet name="Mugino-3-5a" DIMID="130">
+      <planet name="Mugino-3-5a" DIMID="132">
       </planet>
-      <planet name="Kuroko-3-5c" DIMID="131">
+      <planet name="Kuroko-3-5c" DIMID="133">
       </planet>
-      <planet name="Kinuhata-3-5b" DIMID="132">
+      <planet name="Kinuhata-3-5b" DIMID="134">
       </planet>
     </planet>
   </star>

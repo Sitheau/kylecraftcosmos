@@ -63,6 +63,7 @@ and technology
 * Mod Documentation
 
 - Actually Additions: https://ellpeck.de/actaddmanual/
+- AcademyCraft: http://ac.li-dev.cn/
 - Advanced Rocketry: http://arwiki.dmodoomsirius.me/AdvancedRocketry/
 - Immersive Engineering: https://ftb.gamepedia.com/Immersive_Engineering
   - Immserive Petroleum: https://minecraft.curseforge.com/projects/immersive-petroleum
