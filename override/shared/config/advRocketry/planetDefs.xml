@@ -1,0 +1,54 @@
+<galaxy>
+  <!-- solar systems -->
+  <star name="Sol" temp="100" x="0" y="0" numPlanets="0" numGasGiants="0">
+    <planet name="Earth" DIMID="0">
+      <isKnown>true</isKnown>
+      <fogColor>1,1,1</fogColor>
+      <skyColor>0,0,1</skyColor>
+      <atmosphereDensity>100</atmosphereDensity>
+      <gravitationalMultiplier>100</gravitationalMultiplier>
+      <orbitalDistance>100</orbitalDistance>
+      <orbitalTheta>0</orbitalTheta>
+      <rotationalPeriod>24000</rotationalPeriod>
+
+      <planet name="Luna" DIMID="128">
+        <fogColor>1,1,1</fogColor>
+        <skyColor>0,0,0</skyColor>
+        <atmosphereDensity>180</atmosphereDensity>
+        <gravitationalMultiplier>100</gravitationalMultiplier>
+        <orbitalDistance>150</orbitalDistance>
+        <orbitalTheta>190</orbitalTheta>
+        <rotationalPeriod>144000</rotationalPeriod> <!-- 1 moon day = 6 earth days -->
+        <biomeIds>40</biomeIds> <!-- advancedrocketry:moon -->
+      </planet>
+    </planet>
+
+    <planet name="Misaka-3-5" DIMID="129">
+      <hasRings>true</hasRings>
+      <fogColor>0xa334a1</fogColor>
+      <skyColor>0x9df9ca</skyColor>
+      <atmosphereDensity>20</atmosphereDensity>
+      <gravitationalMultiplier>105</gravitationalMultiplier>
+      <orbitalDistance>190</orbitalDistance>
+      <orbitalTheta>2</orbitalTheta>
+      <orbitalPhi>5</orbitalPhi>
+      <biomeIds>10,140</biomeIds>
+
+      <oregen></oregen>
+
+      <!-- moons -->
+      <planet name="Mugino-3-5a" DIMID="130">
+      </planet>
+      <planet name="Kuroko-3-5c" DIMID="131">
+      </planet>
+      <planet name="Kinuhata-3-5b" DIMID="132">
+      </planet>
+    </planet>
+  </star>
+
+
+  <!-- black holes -->
+  <star name="Proton Major" blackHole="true"></star>
+  <star name="Proton Minor" blackHole="true"></star>
+  <star name="Iwakura-68" blackHole="true"></star>
+</galaxy>

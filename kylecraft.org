@@ -46,6 +46,7 @@ and technology
 - Iron Chests (v1.12.2-7.0.59.842)
 - JourneyMap (v1.12.2-5.5.4)
 - Just Enough Items (v4.153.0.268)
+- TellMe (v1.12.2-0.6.0)
 - Thermal Cultivation (v1.12.2-0.3.2.11)
 - Thermal Expansion (v1.12.2-5.5.3.41)
 - Thermal Foundation (v1.12.2-2.6.2.26, dependents: Thermal Cultivation,
