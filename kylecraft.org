@@ -31,6 +31,7 @@ and technology
 - CraftTweaker (v1.12-4.1.16)
   - InitialInventory (v3.0.0)
 - Extra Utilities (v1.12-1.9.9)
+- Flat Colored Blocks (vmc1.12-6.7)
 - FTB Utilities (v5.4.0.87)
 - Immersive Engineering (v0.12-89)
   - Immersive Petroleum (v1.12.2-1.1.9)
