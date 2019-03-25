@@ -10,6 +10,7 @@ and technology
 
 ** Libraries
 - AutoRegLib (v1.3-26, dependents: Akashic Tome)
+- Baubles (v1.12-1.5.2, dependents: Actually Baubles)
 - CodeChicken Lib (v1.12.2-3.2.2.353, dependents: Thermal Expansion)
 - CoFH Core (v1.12.2-4.6.2.25, dependents: CoFH World, Thermal Foundation)
 - FTB Library (v5.4.1.92, dependents: FTB Utilities)
@@ -19,6 +20,8 @@ and technology
 
 ** Mods
 - Akashic Tome (v1.2-12)
+- Actually Additions (v1.12.2-r146)
+  - Actually Baubles (v1.12-1.1)
 - Chisel (vMC1.12.2-0.2.1.35)
 - CoFH World (v1.12.2-1.3.0.6, dependents: Thermal Foundation)
 - ConnectedTexturesMod (vMC1.12.2-0.3.3.22.jar, dependents: Chisel)
@@ -42,6 +45,7 @@ and technology
 
 * Mod Documentation
 
+- Actually Additions: https://ellpeck.de/actaddmanual/
 - Thermal Series: https://teamcofh.com/docs/
 - Tinker's Construct: https://ftb.gamepedia.com/Tinkers%27_Construct
 

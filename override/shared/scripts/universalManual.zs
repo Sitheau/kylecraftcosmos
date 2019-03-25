@@ -5,6 +5,24 @@ var universalManual = <akashictome:tome>.withTag(
     {
         "akashictome:is_morphing": 1 as byte,
         "akashictome:data": {
+            actuallyadditions: {
+                id: "actuallyadditions:item_booklet",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedMod": "actuallyadditions"
+                },
+                Damage: 0 as short
+            },
+
+            extrautils2: {
+                id: "extrautils2:book",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedMod": "extrautils2",
+                },
+                Damage: 0 as short
+            },
+
             tconstruct: {
                 id: "tconstruct:book",
                 Count: 1 as byte,
@@ -12,7 +30,7 @@ var universalManual = <akashictome:tome>.withTag(
                     "akashictome:definedMod": "tconstruct"
                 },
                 Damage: 0 as short
-            }
+            },
         }
     }
 );
