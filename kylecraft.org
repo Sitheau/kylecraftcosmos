@@ -1,11 +1,9 @@
-* KyleCraft Cosmos: Rehauled
+* KyleCraft Cosmos
 
-KyleCraft Cosmos: Rehauled aims to provide an optimized version of KyleCraft
-Cosmos with minimal difference in content and gameplay.
+KyleCraft Cosmos is a mod pack which emphasizes space exploration, creativity,
+and technology
 
 * The Mod List
-
-KyleCraft contains a large collection of mods.
 
 - Minecraft Version: 1.12.2
 - Forge Version: 14.23.5.2815
@@ -44,6 +42,7 @@ KyleCraft contains a large collection of mods.
 
 * Mod Documentation
 
+- Thermal Series: https://teamcofh.com/docs/
 - Tinker's Construct: https://ftb.gamepedia.com/Tinkers%27_Construct
 
 * Changelog
