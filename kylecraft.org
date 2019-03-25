@@ -12,20 +12,29 @@ KyleCraft contains a large collection of mods.
 
 ** Libraries
 - AutoRegLib (v1.3-26, dependents: Akashic Tome)
+- CodeChicken Lib (v1.12.2-3.2.2.353, dependents: Thermal Expansion)
+- CoFH Core (v1.12.2-4.6.2.25, dependents: CoFH World, Thermal Foundation)
 - FTB Library (v5.4.1.92, dependents: FTB Utilities)
 - Mantle (v1.12-1.3.3.42, dependents: Tinker's Construct)
 - MTLib (v3.0.6, dependents: InitialInventory)
+- Redstone Flux (v1.12-2.1.0.6, dependents: CoFH Core)
 
 ** Mods
 - Akashic Tome (v1.2-12)
 - Chisel (vMC1.12.2-0.2.1.35)
+- CoFH World (v1.12.2-1.3.0.6, dependents: Thermal Foundation)
 - ConnectedTexturesMod (vMC1.12.2-0.3.3.22.jar, dependents: Chisel)
 - CraftTweaker (v1.12-4.1.16)
   - InitialInventory (v3.0.0)
+- Extra Utilities (v1.12-1.9.9)
 - FTB Utilities (v5.4.0.87)
 - Iron Chests (v1.12.2-7.0.59.842)
 - JourneyMap (v1.12.2-5.5.4)
 - Just Enough Items (v4.153.0.268)
+- Thermal Cultivation (v1.12.2-0.3.2.11)
+- Thermal Expansion (v1.12.2-5.5.3.41)
+- Thermal Foundation (v1.12.2-2.6.2.26, dependents: Thermal Cultivation,
+                      Thermal Expansion)
 - Tinker's Construct (v1.12.2-2.12.0.115)
 *** Client-sided Only
 - More Overlays (v1.14)
@@ -39,5 +48,5 @@ KyleCraft contains a large collection of mods.
 
 * Changelog
 
-** v0.1
+** v1.0.0
 + Created modpack.
