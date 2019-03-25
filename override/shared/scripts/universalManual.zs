@@ -18,9 +18,18 @@ var universalManual = <akashictome:tome>.withTag(
                 id: "extrautils2:book",
                 Count: 1 as byte,
                 tag: {
-                    "akashictome:definedMod": "extrautils2",
+                    "akashictome:definedMod": "extrautils2"
                 },
                 Damage: 0 as short
+            },
+
+            immersiveengineering: {
+                id: "immersiveengineering:tool",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedMod": "immersiveengineering"
+                },
+                Damage: 3 as short
             },
 
             tconstruct: {
