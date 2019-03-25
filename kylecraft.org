@@ -18,6 +18,8 @@ KyleCraft contains a large collection of mods.
 
 ** Mods
 - Akashic Tome (v1.2-12)
+- Chisel (vMC1.12.2-0.2.1.35)
+- ConnectedTexturesMod (vMC1.12.2-0.3.3.22.jar, dependents: Chisel)
 - CraftTweaker (v1.12-4.1.16)
   - InitialInventory (v3.0.0)
 - FTB Utilities (v5.4.0.87)
@@ -31,7 +33,7 @@ KyleCraft contains a large collection of mods.
 
 * Mod Documentation
 
-- Tinker's Construct (https://ftb.gamepedia.com/Tinkers%27_Construct)
+- Tinker's Construct: https://ftb.gamepedia.com/Tinkers%27_Construct
 
 * Changelog
 
