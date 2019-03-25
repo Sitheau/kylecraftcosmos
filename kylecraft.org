@@ -19,6 +19,7 @@ and technology
 - Redstone Flux (v1.12-2.1.0.6, dependents: CoFH Core)
 - Shadowfact's Forgelin (v1.8.2, dependents: Tesla Core Lib)
 - Tesla Core Lib (v1.12.2-1.0.15, dependents: Industrial Foregoing)
+- WanionLib (v1.12.2-2.2, dependents: UniDict)
 
 ** Mods
 - Actually Additions (v1.12.2-r146)
@@ -43,6 +44,7 @@ and technology
 - Thermal Foundation (v1.12.2-2.6.2.26, dependents: Thermal Cultivation,
                       Thermal Expansion)
 - Tinker's Construct (v1.12.2-2.12.0.115)
+- UniDict (v1.12.2-2.9.2)
 *** Client-sided Only
 - More Overlays (v1.14)
 - Inventory Tweaks (v1.63)
