@@ -45,6 +45,7 @@ and technology
 - Immersive Engineering (v0.12-89)
   - Immersive Petroleum (v1.12.2-1.1.9)
   - Immersive Tech (v1.12-1.3.10)
+- In Control! (v1.12-3.9.6)
 - Industrial Foregoing (v1.12.2-1.12.8-232)
 - Iron Chests (v1.12.2-7.0.59.842)
 - JourneyMap (v1.12.2-5.5.4)
