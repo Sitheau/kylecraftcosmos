@@ -14,12 +14,11 @@
       <planet name="Luna" DIMID="128">
         <fogColor>1,1,1</fogColor>
         <skyColor>0,0,0</skyColor>
-        <atmosphereDensity>180</atmosphereDensity>
+        <atmosphereDensity>20</atmosphereDensity>
         <gravitationalMultiplier>20</gravitationalMultiplier>
         <orbitalDistance>5</orbitalDistance>
         <orbitalTheta>190</orbitalTheta>
         <rotationalPeriod>144000</rotationalPeriod> <!-- 1 moon day = 6 earth days -->
-        <biomeIds>40</biomeIds> <!-- advancedrocketry:moon -->
       </planet>
     </planet>
 
@@ -38,7 +37,7 @@
       <planet name="Arisu" DIMID="130">
         <fogColor>1,1,1</fogColor>
         <skyColor>0xdf5286</skyColor>
-        <atmosphereDensity>50</atmosphereDensity>
+        <atmosphereDensity>20</atmosphereDensity>
         <gravitationalMultiplier>20</gravitationalMultiplier>
         <orbitalDistance>8</orbitalDistance>
         <orbitalTheta>30</orbitalTheta>
