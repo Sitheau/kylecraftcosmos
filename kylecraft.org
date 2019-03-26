@@ -76,6 +76,7 @@ and technology
 - Albedo (v0.1.3, optional: Techguns)
   - Albedo Compat (v1.0)
   - Albedo Torches (v1.0.4)
+- Blur (v1.0.4-14)
 - More Overlays (v1.14)
 - Inventory Tweaks (v1.63)
 *** Server-sided Only
