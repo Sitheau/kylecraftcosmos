@@ -37,8 +37,8 @@
       <planet name="Arisu" DIMID="130">
         <fogColor>1,1,1</fogColor>
         <skyColor>0xdf5286</skyColor>
-        <atmosphereDensity>20</atmosphereDensity>
-        <gravitationalMultiplier>20</gravitationalMultiplier>
+        <atmosphereDensity>10</atmosphereDensity>
+        <gravitationalMultiplier>10</gravitationalMultiplier>
         <orbitalDistance>8</orbitalDistance>
         <orbitalTheta>30</orbitalTheta>
         <orbitalPhi>25</orbitalPhi>
