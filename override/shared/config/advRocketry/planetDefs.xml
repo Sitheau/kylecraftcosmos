@@ -73,6 +73,14 @@
       <planet name="Kinuhata-3-5b" DIMID="134">
       </planet>
     </planet>
+
+    <planet name="Dictator Dave's Planet" DIMID="135">
+      <fogColor>1,1,1</fogColor>
+      <skyColor>0xbf9207</skyColor>
+      <atmosphereDensity>75</atmosphereDensity>
+      <gravitationalMultiplier>45</gravitationalMultiplier>
+      <orbitalDistance>20</orbitalDistance>
+    </planet>
   </star>
 
 
