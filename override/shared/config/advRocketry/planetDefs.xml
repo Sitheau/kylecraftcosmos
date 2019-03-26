@@ -26,13 +26,14 @@
     <planet name="Lain" DIMID="129">
       <fogColor>1,1,1</fogColor>
       <skyColor>0,0,0</skyColor>
-      <atmosphereDensity>80<atmosphereDensity>
+      <atmosphereDensity>80</atmosphereDensity>
       <gravitationalMultiplier>70</gravitationalMultiplier>
       <orbitalDistance>110</orbitalDistance>
       <orbitalTheta>0</orbitalTheta>
       <orbitalPhi>130</orbitalPhi>
-      <rotationalPeriod>36000</rotationalPeriod> <!--  1 day = 1.5 earth days -->
-      <biomeIds>0,3,14,15,25,26,30,37,165,41,42,45,46,47</biomeIds>
+      <rotationalPeriod>26400</rotationalPeriod> <!--  1 day = 1.1 earth days -->
+
+      <!--<spawnable weight="1" groupMin="1" groupMax="3"></spawnable>-->
 
       <planet name="Arisu" DIMID="130">
         <fogColor>1,1,1</fogColor>
@@ -43,7 +44,6 @@
         <orbitalTheta>30</orbitalTheta>
         <orbitalPhi>25</orbitalPhi>
         <rotationalPeriod>160000</rotationalPeriod>
-        <biomeIds>37,38,39</biomeIds>
       </planet>
     </planet>
 
