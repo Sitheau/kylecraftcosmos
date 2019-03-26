@@ -1,4 +1,3 @@
-
 * KyleCraft Cosmos
 
 KyleCraft Cosmos is a mod pack which emphasizes space exploration, creativity,
@@ -17,6 +16,7 @@ and technology
 - CoFH Core (v1.12.2-4.6.2.25, dependents: CoFH World, Thermal Foundation)
 - EnderCore (v1.12.2-0.5.45, dependents: EnderIO)
 - FTB Library (v5.4.1.92, dependents: FTB Utilities)
+- InfinityLib (v1.12.0, dependents: AgriCraft)
 - LambdaLib (v0.1.8, dependents: AcademyCraft)
 - LibVulpes (v1.12.2-0.4.0-53, dependents: Advanced Rocketry)
 - Mantle (v1.12-1.3.3.42, dependents: Tinker's Construct)
@@ -31,6 +31,8 @@ and technology
 - Actually Additions (v1.12.2-r146)
   - Actually Baubles (v1.12-1.1)
 - Advanced Rocketry (v1.12.2-1.5.0-136)
+- AgriCraft (v2.12.0-1.12.0-a6)
+- AI Improvements (v1.12-0.0.1b3)
 - Akashic Tome (v1.2-12)
 - Chisel (vMC1.12.2-0.2.1.35)
 - Chisels & Bits (v14.31)
