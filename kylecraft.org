@@ -11,6 +11,7 @@ and technology
 ** Libraries
 - AutoRegLib (v1.3-26, dependents: Akashic Tome)
 - Baubles (v1.12-1.5.2, dependents: Actually Baubles)
+- BdLib (v1.14.3.12-mc1.12.2, dependents: my sanity)
 - CodeChicken Lib (v1.12.2-3.2.2.353, dependents: Thermal Expansion)
 - CoFH Core (v1.12.2-4.6.2.25, dependents: CoFH World, Thermal Foundation)
 - EnderCore (v1.12.2-0.5.45, dependents: EnderIO)

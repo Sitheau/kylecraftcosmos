@@ -59,10 +59,10 @@
       <biomeIds>10,140</biomeIds>
 
       <OreGen>
-        <ore block="academy:constraint_metal" minHeight="0" maxHeight="40" clumpSize="8" chancePerChunk="8" />
-        <ore block="academy:crystal_ore" minHeight="0" maxHeight="60" clumpSize="4" chancePerChunk="32" />
-        <ore block="academy:imagsil_ore" minHeight="0" maxHeight="60" clumpSize="8" chancePerChunk="32" />
-        <ore block="academy:reso_ore" minHeight="0" maxHeight="60" clumpSize="4" chancePerChunk="32" />
+        <ore block="academy:constraint_metal" minHeight="0" maxHeight="40" clumpSize="8" chancePerChunk="4" />
+        <ore block="academy:crystal_ore" minHeight="0" maxHeight="60" clumpSize="4" chancePerChunk="6" />
+        <ore block="academy:imagsil_ore" minHeight="0" maxHeight="60" clumpSize="8" chancePerChunk="6" />
+        <ore block="academy:reso_ore" minHeight="0" maxHeight="60" clumpSize="4" chancePerChunk="6" />
       </OreGen>
 
       <!-- moons -->
