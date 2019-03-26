@@ -42,6 +42,7 @@ and technology
   - AE2 Stuff (v0.7.0.4-mc1.12.2)
   - ExtraCells2 (v1.12.2-2.6.2a)
   - Wireless Crafting Terminal (v1.12.2-3.11.88)
+- Better Records (v1.12.2-1.6.1)
 - BetterFps (v1.4.8)
 - Biomes O' Plenty (v1.12.2-7.0.1.2419)
 - Chisel (vMC1.12.2-0.2.1.35)
