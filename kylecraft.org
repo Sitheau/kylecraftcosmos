@@ -10,7 +10,7 @@ and technology
 
 ** Libraries
 - AE2 Wireless Terminal Library (v1.12.2-1.0.6, dependents: Wireless Crafting Terminal)
-- AutoRegLib (v1.3-26, dependents: Akashic Tome)
+- AutoRegLib (v1.3-26, dependents: Akashic Tome, Morph-o-Tool)
 - Baubles (v1.12-1.5.2, dependents: Actually Baubles)
 - BdLib (v1.14.3.12-mc1.12.2, dependents: AE2 Stuff, my sanity)
 - CodeChicken Lib (v1.12.2-3.2.2.353, dependents: Ender Storage, Thermal Expansion)
@@ -74,6 +74,7 @@ and technology
 - JourneyMap (v1.12.2-5.5.4)
 - Just Enough Items (v4.153.0.268)
 - LagGoggles (v1.12.2-4.1)
+- Morph-o-Tool (v1.2-21)
 - RFTools (v1.12-7.61)
 - Techguns (v1.12.2-2.0.1.2\under1)
 - TellMe (v1.12.2-0.6.0)
