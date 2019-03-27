@@ -5,6 +5,15 @@ var universalManual = <akashictome:tome>.withTag(
     {
         "akashictome:is_morphing": 1 as byte,
         "akashictome:data": {
+            academy: {
+                id: "academy:tutorial",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedMod": "academy"
+                },
+                Damage: 0 as short
+            },
+
             actuallyadditions: {
                 id: "actuallyadditions:item_booklet",
                 Count: 1 as byte,
@@ -30,6 +39,24 @@ var universalManual = <akashictome:tome>.withTag(
                     "akashictome:definedMod": "immersiveengineering"
                 },
                 Damage: 3 as short
+            },
+
+            industrialforegoing: {
+                id: "industrialforegoing:book_manual",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedmod": "industrialforegoing"
+                },
+                Damage: 0 as short
+            },
+
+            rftools: {
+                id: "rftools:rftools_manual",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedMod": "rftools"
+                },
+                Damage: 0 as short
             },
 
             tconstruct: {
