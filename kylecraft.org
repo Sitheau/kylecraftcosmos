@@ -16,11 +16,13 @@ and technology
 - CodeChicken Lib (v1.12.2-3.2.2.353, dependents: Thermal Expansion)
 - CoFH Core (v1.12.2-4.6.2.25, dependents: CoFH World, Thermal Foundation)
 - EnderCore (v1.12.2-0.5.45, dependents: EnderIO)
+- Fabric (v0.2.5.114, dependents: Hwyla)
 - FTB Library (v5.4.1.92, dependents: FTB Utilities)
 - InfinityLib (v1.12.0, dependents: AgriCraft)
 - LambdaLib (v0.1.8, dependents: AcademyCraft)
 - LibVulpes (v1.12.2-0.4.0-53, dependents: Advanced Rocketry)
 - Mantle (v1.12-1.3.3.42, dependents: Tinker's Construct)
+- McJtyLib (v1.12-3.1.1, dependents: RFTools)
 - MTLib (v3.0.6, dependents: InitialInventory)
 - p455w0rd's Library (v1.12.2-2.0.36, dependents: AE2 Wireless Terminal Library)
 - Redstone Flux (v1.12-2.1.0.6, dependents: CoFH Core)
@@ -57,14 +59,19 @@ and technology
 - FastWorkbench (v1.12.2-1.6.1)
 - Flat Colored Blocks (vmc1.12-6.7)
 - FTB Utilities (v5.4.0.87)
+- Hwyla (v1.8.26-B41\under1.12.2)
 - Immersive Engineering (v0.12-89)
   - Immersive Petroleum (v1.12.2-1.1.9)
+  - Immersive Posts (v0.0.5)
+  - Immersive Cables (v1.12.2-1.3.2)
   - Immersive Tech (v1.12-1.3.10)
 - In Control! (v1.12-3.9.6)
 - Industrial Foregoing (v1.12.2-1.12.8-232)
 - Iron Chests (v1.12.2-7.0.59.842)
 - JourneyMap (v1.12.2-5.5.4)
 - Just Enough Items (v4.153.0.268)
+- LagGoggles (v1.12.2-4.1)
+- RFTools (v1.12-7.61)
 - Techguns (v1.12.2-2.0.1.2\under1)
 - TellMe (v1.12.2-0.6.0)
 - Thermal Foundation (v1.12.2-2.6.2.26)
@@ -91,3 +98,4 @@ and technology
 + Added mod: TellMe
 + Numerous configurations added/modified.
 - Removed mod: Buildcraft
+- Removed mod: Immersive Tech OreDictionary
