@@ -87,6 +87,7 @@ and technology
 - Chat Tweaks (v1.12.2-5.1.20)
 - More Overlays (v1.14)
 - Inventory Tweaks (v1.63)
+- ReAuth (v3.6.0)
 *** Server-sided Only
 - Gotta Go Fast (v1.1)
 
