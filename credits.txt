@@ -1,0 +1,9 @@
+# This file contains links to the curseforge project page for all the mods used
+# in this modpack. These pages contain download links, mod information, and
+# information about the mod authors. KyleCraft Cosmos modpack and its
+# contributors have only provided configurations for the mods listed,
+# crafttweaker scripts, and scripts/data for using/modifying/hosting the
+# modpack. We do not claim any credit for the mods included, that belongs to the
+# authors provided in each link.
+
+# TODO: provide links
