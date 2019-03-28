@@ -5,6 +5,8 @@ if [ "$2" == "" ] || [ ! -d $2 ]; then
     exit 0
 fi
 
+install_dir=$2
+
 prepare_install_dir () {
     rm -rf $install_dir/config
     rm -rf $install_dir/mods
@@ -13,14 +15,14 @@ prepare_install_dir () {
 
 install_client () {
     prepare_install_dir
-    cp -r ./override/shared/* $install_path
-    cp -r ./override/client/* $install_path
+    cp -r ./override/shared/* $install_dir
+    cp -r ./override/client/* $install_dir
 }
 
 install_server () {
     prepare_install_dir
-    cp -r ./override/shared/* $install_path
-    cp -r ./override/server/* $install_path
+    cp -r ./override/shared/* $install_dir
+    cp -r ./override/server/* $install_dir
 }
 
 case "$1" in
