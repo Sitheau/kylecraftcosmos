@@ -133,6 +133,7 @@ and technology
 + Created modpack.
 *** Initial Differences from original CurseForge kylecraft
 + Added mod: TellMe
++ Added mod: Immersive Hempcraft
 + Numerous configurations added/modified.
 - Removed mod: Bed Patch
 - Removed mod: Buildcraft

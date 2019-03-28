@@ -23,6 +23,15 @@ var universalManual = <akashictome:tome>.withTag(
                 Damage: 0 as short
             },
 
+            astralsorcery: {
+                id: "astralsorcery:itemjournal",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedMod": "astralsorcery"
+                },
+                Damage: 0 as short
+            },
+
             extrautils2: {
                 id: "extrautils2:book",
                 Count: 1 as byte,
