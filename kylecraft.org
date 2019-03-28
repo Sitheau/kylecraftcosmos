@@ -49,6 +49,7 @@ and technology
 - Better Records (v1.12.2-1.6.1)
 - BetterFps (v1.4.8)
 - Biomes O' Plenty (v1.12.2-7.0.1.2419)
+- BiblioCraft (v2.4.5)
 - Chisel (vMC1.12.2-0.2.1.35)
 - Chisels & Bits (v14.31)
   - Extra Bit Manipulation (v1.12.2-3.4.1)
