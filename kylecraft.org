@@ -25,7 +25,6 @@ and technology
 - FTB Library (v5.4.1.92, dependents: FTB Utilities)
 - iChunUtil (v1.12.2-7.2.1, dependents: Hats)
 - InfinityLib (v1.12.0, dependents: AgriCraft)
-- LambdaLib (v0.1.8, dependents: AcademyCraft)
 - LemonLib (v1.12.2-1.3.0, dependents: Statues: Rechiseled)
 - LibrarianLib (v1.12.2-4.15, dependents: Random PSIdeas, Refraction)
 - LibVulpes (v1.12.2-0.4.0-53, dependents: Advanced Rocketry)
@@ -52,7 +51,6 @@ and technology
 - OreLib (v1.12.2-3.5.2.22, dependents: Dynamic Surroundings)
 
 ** Mods
-- AcademyCraft (v1.1.1)
 - Actually Additions (v1.12.2-r146)
   - Actually Baubles (v1.12-1.1)
 - Advanced Rocketry (v1.12.2-1.5.0-136)
@@ -228,6 +226,7 @@ and technology
 + Added mod: TellMe
 + Added mod: Immersive Hempcraft
 + Numerous configurations added/modified.
+- Removed mod: Academy Craft
 - Removed mod: Bed Patch
 - Removed mod: Buildcraft
 - Removed mod: Immersive Tech OreDictionary

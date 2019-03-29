@@ -1,7 +1,7 @@
 #!/bin/bash
 kccdir=$(readlink -f $(dirname "$0"))
 prevdir=$(pwd)
-kccver=1.0.0
+kccver=1.0.1
 sources="override kylecraft.org credits.txt install.sh package.sh"
 target=kylecraft-dev-v$kccver
 
@@ -14,8 +14,6 @@ done
 
 echo "creating $target.tar.gz..."
 tar -czf $prevdir/$target.tar.gz kylecraftcosmos > /dev/null
-echo "creating $target.zip..."
-zip -r $prevdir/$target.zip kylecraftcosmos > /dev/null
 
 rm -rf kylecraftcosmos
 cd $prevdir
