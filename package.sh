@@ -13,9 +13,9 @@ for src in $sources; do
 done
 
 echo "creating $target.tar.gz..."
-tar -czf $prevdir/$target.tar.gz kylecraftcosmos
+tar -czf $prevdir/$target.tar.gz kylecraftcosmos > /dev/null
 echo "creating $target.zip..."
-zip -r $prevdir/$target.zip kylecraftcosmos
+zip -r $prevdir/$target.zip kylecraftcosmos > /dev/null
 
 rm -rf kylecraftcosmos
 cd $prevdir
