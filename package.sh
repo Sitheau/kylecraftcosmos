@@ -1,7 +1,7 @@
 #!/bin/bash
 kccdir=$(readlink -f $(dirname "$0"))
 prevdir=$(pwd)
-kccver=0.1
+kccver=1.0.0
 sources="override kylecraft.org credits.txt install.sh package.sh"
 target=kylecraft-dev-v$kccver
 
