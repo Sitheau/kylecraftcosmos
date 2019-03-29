@@ -74,7 +74,7 @@ var universalManual = <akashictome:tome>.withTag(
                 tag: {
                     "akashictome:definedmod": "opencomputers"
                 },
-                Damage: 0 as short
+                Damage: 4 as short
             },
 
             rftools: {
