@@ -1,6 +1,6 @@
 <galaxy>
   <!-- solar systems -->
-  <star name="Sol" temp="100" x="0" y="0" numPlanets="10" numGasGiants="0">
+  <star name="Sol" temp="100" x="0" y="0" numPlanets="10" numGasGiants="5">
     <planet name="Earth" DIMID="0">
       <isKnown>true</isKnown>
       <fogColor>1,1,1</fogColor>
