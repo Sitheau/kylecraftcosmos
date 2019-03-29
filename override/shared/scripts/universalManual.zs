@@ -32,6 +32,15 @@ var universalManual = <akashictome:tome>.withTag(
                 Damage: 0 as short
             },
 
+            conarm: {
+                id: "conarm:book",
+                Count: 1 as a byte,
+                tag: {
+                    "akashictome:definedMod": "conarm"
+                },
+                Damage: 0 as short
+            },
+
             extrautils2: {
                 id: "extrautils2:book",
                 Count: 1 as byte,
@@ -59,6 +68,15 @@ var universalManual = <akashictome:tome>.withTag(
                 Damage: 0 as short
             },
 
+            opencomputers: {
+                id: "opencomputers:tool",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedmod": "opencomputers"
+                },
+                Damage: 0 as short
+            },
+
             rftools: {
                 id: "rftools:rftools_manual",
                 Count: 1 as byte,
@@ -76,6 +94,15 @@ var universalManual = <akashictome:tome>.withTag(
                 },
                 Damage: 0 as short
             },
+
+            valkyrielib: {
+                id: "valkyrielib:guide",
+                Count: 1 as byte,
+                tag: {
+                    "akashictome:definedMod": "valkyrielib"
+                },
+                Damage: 0 as short
+            }
         }
     }
 );
