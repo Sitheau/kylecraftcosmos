@@ -24,7 +24,7 @@
 	<Recipe timeRequired="9000" power ="20">
 		<input>
 			<itemStack>thermalfoundation:material 7 132</itemStack>
-			<itemStack>libvulpes:productingot 3 7</itemStack>
+			<itemStack>mw:titaniumingot 3</itemStack>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:productingot 3</itemStack>
@@ -37,8 +37,14 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material 1 160</itemStack>
+			<itemStack>nuclearcraft:alloy 1 5</itemStack>
+			<itemStack>mw:steelingot</itemStack>
 			<itemStack>libvulpes:productingot 1 6</itemStack>
+			<itemStack>icbmclassic:ingot</itemStack>
 			<itemStack>immersiveengineering:metal 1 8</itemStack>
+			<itemStack>mekanism:ingot 1 4</itemStack>
+			<itemStack>techguns:itemshared 1 83</itemStack>
+			<itemStack>magneticraft:ingots 1 6</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="12000" power ="1">
@@ -52,7 +58,7 @@
 	<Recipe timeRequired="3000" power ="20">
 		<input>
 			<itemStack>thermalfoundation:material 1 135</itemStack>
-			<itemStack>libvulpes:productingot 1 7</itemStack>
+			<itemStack>mw:titaniumingot</itemStack>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:productingot 2 1</itemStack>
