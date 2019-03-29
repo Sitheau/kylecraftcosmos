@@ -34,7 +34,7 @@ var universalManual = <akashictome:tome>.withTag(
 
             conarm: {
                 id: "conarm:book",
-                Count: 1 as a byte,
+                Count: 1 as byte,
                 tag: {
                     "akashictome:definedMod": "conarm"
                 },
