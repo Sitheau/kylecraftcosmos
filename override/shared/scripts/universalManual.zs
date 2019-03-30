@@ -5,6 +5,7 @@ var universalManual = <akashictome:tome>.withTag(
     {
         "akashictome:is_morphing": 1 as byte,
         "akashictome:data": {
+            /*
             academy: {
                 id: "academy:tutorial",
                 Count: 1 as byte,
@@ -13,6 +14,7 @@ var universalManual = <akashictome:tome>.withTag(
                 },
                 Damage: 0 as short
             },
+            */
 
             actuallyadditions: {
                 id: "actuallyadditions:item_booklet",

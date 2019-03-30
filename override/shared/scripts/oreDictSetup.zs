@@ -1,3 +1,4 @@
+/*
 import crafttweaker.oredict.IOreDictEntry;
 
 // AcademyCraft doesn't use oredict by default, needed for ore generation
@@ -11,3 +12,4 @@ function setupAcademyOres()
 }
 
 setupAcademyOres();
+*/
