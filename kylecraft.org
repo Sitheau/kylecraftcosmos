@@ -6,7 +6,7 @@ and technology
 * The Mod List
 
 - Minecraft Version: 1.12.2
-- Forge Version: 14.23.5.2815
+- Forge Version: 14.23.5.2823
 
 ** Libraries
 - AE2 Wireless Terminal Library (v1.12.2-1.0.6, dependents: Wireless Crafting
