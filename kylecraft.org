@@ -153,6 +153,7 @@ and technology
 - Psi (vr1.1-72)
   - Random PSIdeas (v2.2.2)
 - QuantumStorage (v1.12-4.6.8)
+- Railcraft (v12.0.0)
 - Refraction (v1.12.2-1.9.10)
 - RFTools (v1.12-7.61)
 - Robotic Parts (v1.12.2-0.2.10.15)
