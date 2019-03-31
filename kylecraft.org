@@ -217,6 +217,15 @@ and technology
 - Gotta Go Fast (v1.1)
 - Morpheus (v1.12.2-3.5.106)
 - NetherPortalFix (v1.12.1-5.3.17)
+- SpongeForge (v1.12.2-2768-7.1.6-RC3635)
+
+* Sponge Plugins
+
+The following sponge plugins have been added to the server to improve
+multiplayer gameplay:
+
+- GriefPrevention
+- LuckPerms
 
 * Changelog
 
